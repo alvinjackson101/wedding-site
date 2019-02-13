@@ -1,0 +1,80 @@
+#page-layout{
+	max-width: 100%;
+  	background: white;
+
+}
+
+#navbar{
+	
+	width: 100%;
+	padding-top: 24px;
+	padding-bottom: 24px;
+	overflow: hidden;
+	top: 0;
+	background-color: transparent;
+	position: fixed;
+	margin-left: 0px;
+}
+
+#navbar:hover{
+	
+	width: 100%;
+	padding-top: 24px;
+	padding-bottom: 24px;
+	overflow: hidden;
+	top: 0;
+	background-color: white;
+	border-bottom: 1px;
+	border-bottom-style: solid;
+	border-color: #eaeaea;
+	position: fixed;
+	margin-left: 0px;
+}
+
+.navlinks{
+
+	text-decoration: none;
+	padding: 0px 14px 0px 14px;
+	color: #3f4b61;
+}
+
+#logo{
+	
+	width: 10%;
+	height:auto;
+	position: auto;
+	padding: 0px;
+}
+
+#leftnav{
+
+float: left;
+
+}
+
+#middlenav{
+
+	position: middle;
+	padding-left: 160px;
+}
+
+#rightnav{
+
+	float:right;
+	width: 300px;
+
+}
+
+#leftnav, #rightnav{
+
+	padding-top:20px;
+}
+
+.mark-logo{
+	height:80px;
+}
+
+#main-image{
+
+	width: 100vw;
+}
